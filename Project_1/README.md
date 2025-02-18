@@ -18,10 +18,13 @@
 - SQLite/SQLite3
 - NodeJS
 
-*Screenshots*
+*Screenshots*<br>
+![Project Screenshot](Project_1/Screenshot_1.png)
+![Project Screenshot](Project_1/Screenshot_2.png)
+![Project Screenshot](Project_1/Screenshot_3.png)
+![Project Screenshot](Project_1/Screenshot_4.png)
 
 *Additional*
-
 - Schematic Diagram
 <br>Describing the relationship between the Presentation, Application and Data tiers of the program.
 - Entity Relationship
