@@ -19,10 +19,10 @@
 - NodeJS
 
 *Screenshots*<br>
-![Project Screenshot](Project_1/Screenshot_1.png)
-![Project Screenshot](Project_1/Screenshot_2.png)
-![Project Screenshot](Project_1/Screenshot_3.png)
-![Project Screenshot](Project_1/Screenshot_4.png)
+<img src="Screenshot_1.png" alt="Project Screenshot 1" width="50%" />
+<img src="Screenshot_2.png" alt="Project Screenshot 2" width="30%" />
+<img src="Screenshot_3.png" alt="Project Screenshot 3" width="50%" />
+<img src="Screenshot_4.png" alt="Project Screenshot 4" width="30%" />
 
 *Additional*
 - Schematic Diagram
